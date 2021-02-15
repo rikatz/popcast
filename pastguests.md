@@ -56,3 +56,4 @@
 | 49 | Marc Boorshtein (Tremolo Security) | "Kubernetes RBAC, Identity, and the New York Yankees with Marc Boorshtein" | [YouTube](https://youtu.be/BBBlHy4uZw8) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-49-kubernetes-rbac-identity-and-the-new-york-yankees-with-marc-boorshtein) |
 | 50 | Sarah Novotny | "The matriarch of Kubernetes Sarah Novotny" | [YouTube](https://youtu.be/A34W9ItZD84) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-50-the-matriarch-of-kubernetes-sarah-novotny) |
 | 51 | Season One Retrospective | "Season One Retrospective" | [YouTube](https://youtu.be/-Snr1qgSV2g) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-51-season-one-retrospective) |
+| 52 | Phil Estes | "The King of Containerd" | [YouTube](https://youtu.be/sLgC-zLNig4) | [Simplecast](https://popcast-d9f7b6dc.simplecast.com/episodes/episode-52-the-king-of-containerd-with-phil-estes) |
