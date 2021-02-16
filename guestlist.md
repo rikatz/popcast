@@ -1,5 +1,4 @@
 # Guests you would like to see
-* David Egts
 * Brandon Phillips
 * Alex Polvi
 * Swarna Podila
