@@ -42,3 +42,8 @@
 * Diane Mueller      [@pythondj](www.twitter.com/pythondj)
 * Forrest Brazeal    [@forrestbrazeal](www.twitter.com/forrestbrazeal)
 * Sebastian Scheele  [@sscheele](https://twitter.com/sscheele)
+* Matt Klein         [@mattklein123](https://twitter.com/mattklein123)
+* Michael Hausenblas [@mhausenblas](https://twitter.com/mhausenblas)
+* Nikhita Raghunath  [@TheNikhita](https://twitter.com/TheNikhita)
+* Maciej Szulik (one of the kubectl fathers!) [@soltysh](https://twitter.com/soltysh)
+
